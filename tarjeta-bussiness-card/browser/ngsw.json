@@ -1,0 +1,101 @@
+{
+  "configVersion": 1,
+  "timestamp": 1720281718531,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main-Z4JTJCZC.js",
+        "/manifest.webmanifest",
+        "/polyfills-6EAL64PA.js",
+        "/styles-RSYEWFN3.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/image/Icono-Whatsapp.png",
+        "/assets/image/equipo.jpg",
+        "/assets/image/equipofoto.avif",
+        "/assets/image/facebook.png",
+        "/assets/image/fotoyo.jpg",
+        "/assets/image/imagenMujer.avif",
+        "/assets/image/instagram.png",
+        "/assets/image/logo.png",
+        "/assets/image/logotipoFac.png",
+        "/assets/image/portada.png",
+        "/assets/image/whatsapp.png",
+        "/icons/icon-128x128.png",
+        "/icons/icon-144x144.png",
+        "/icons/icon-152x152.png",
+        "/icons/icon-192x192.png",
+        "/icons/icon-384x384.png",
+        "/icons/icon-512x512.png",
+        "/icons/icon-72x72.png",
+        "/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/image/Icono-Whatsapp.png": "e3085fb94de44fcd348fdbbc9a563ee9745034e5",
+    "/assets/image/equipo.jpg": "64bd06a3d9731bec13909ca5c02f47d9b1434b7f",
+    "/assets/image/equipofoto.avif": "1ee970b43c008fafa865d3237bcfdcc45166e662",
+    "/assets/image/facebook.png": "bf3612bc55c973287e3d631f52705f9cc236aa53",
+    "/assets/image/fotoyo.jpg": "08e4dbaf9462f527daeedcd14242877e369055cd",
+    "/assets/image/imagenMujer.avif": "f6aceac99311121615608fce6b1d4dbaeaa8d624",
+    "/assets/image/instagram.png": "68f3fd982c99b7311e7a89098d46d07a1f85e5d9",
+    "/assets/image/logo.png": "b5a745451f8f2cb4a41df8007c6c20c5ded55595",
+    "/assets/image/logotipoFac.png": "1553c558cab2c17b57aa4ea0ff53facb6430b752",
+    "/assets/image/portada.png": "ea2ba65634dd1c88826a45d10f773631d76e2314",
+    "/assets/image/whatsapp.png": "9f76a4944c50412b7f9814bd9c25885a3c5b8b1c",
+    "/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
+    "/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
+    "/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
+    "/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
+    "/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
+    "/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
+    "/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
+    "/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
+    "/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
+    "/index.html": "6ef83235578f9e7f4fa78296515c99c8c01cb86f",
+    "/main-Z4JTJCZC.js": "df8bdf304a3d77bd279565479c12d97f95247886",
+    "/manifest.webmanifest": "73a27dd84b966b65fc6bf05dbefa0b86b4118f85",
+    "/polyfills-6EAL64PA.js": "d874147a12a6570d9b44e99935e9de8b7f3cabbc",
+    "/styles-RSYEWFN3.css": "1bd3866a38303bde55c00e26e70eb720ae241881"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
